@@ -1,0 +1,70 @@
+/* body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #1e3c72, #2a5298);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.container {
+  background: white;
+  padding: 30px;
+  border-radius: 20px;
+  width: 400px;
+  text-align: center;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+  margin: 0;
+  font-size: 26px;
+  color: #2a5298;
+}
+
+h2 {
+  margin: 5px 0 20px;
+  font-weight: normal;
+  color: #555;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 15px;
+}
+
+.card {
+  background: #f3f6ff;
+  padding: 15px;
+  border-radius: 15px;
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  background: #e1e9ff;
+}
+
+.card h3 {
+  margin: 0;
+  font-size: 16px;
+  color: #2a5298;
+}
+
+.card p {
+  margin: 8px 0 0;
+  font-size: 18px;
+  font-weight: bold;
+  color: #000;
+}
+.city-select {
+  margin: 15px 0 20px;
+  padding: 8px;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+  width: 100%;
+  cursor: pointer;
+} */
