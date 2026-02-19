@@ -8,9 +8,10 @@ export default function App() {
 
   const cities = [
     { label: "اللاذقية", value: "Latakia,Syria" },
-    // { label: "أبو ظبي", value: "Abu Dhabi,UAE" },
-    // { label: "هامبورغ", value: "Hamburg,Germany" },
-    // { label: "دالاس", value: "Dallas,USA" },
+    { label: "أبو ظبي", value: "Abu Dhabi,UAE" },
+    { label: "هامبورغ", value: "Hamburg,Germany" },
+    { label: "دالاس", value: "Dallas,USA" },
+    { label: "اسطنبول", value: "Istanbul,Turkey" },
   ];
 
   const prayers = [
